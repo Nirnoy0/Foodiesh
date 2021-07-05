@@ -63,9 +63,10 @@ section{
 }
 #Recipes{
     font-size: 25px;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 20%;
+    margin-right: 20%;
     margin-bottom: 50px;
+    text-align: justify;
 }
 .box{
     border: solid snow 4%;
