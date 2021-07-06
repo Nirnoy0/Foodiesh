@@ -46,12 +46,6 @@ section{
     border: goldenrod solid 5px;
     border-radius: 10%;
 }
-.details{
-    font-size: 18px;
-    font-weight: 600;
-    margin-bottom: 40px;
-    text-align: justify;
-}
 #title1{
     color: black;
     font-weight: 800;
@@ -62,7 +56,13 @@ section{
     font-weight: 600;
     color: grey;
 }
-#Recipes{
+.details{
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 40px;
+    text-align: justify;
+}
+.Recipes{
     font-size: 25px;
     margin-left: 20%;
     margin-right: 20%;
@@ -99,6 +99,8 @@ section{
     box-shadow: 0px 1px 3px;
     margin-left: 10%;
     margin-right: 10%;
+    margin-top: 0%;
+    margin-bottom: 5%;
     padding: 5%;
     width: 70%;
 }
@@ -111,10 +113,30 @@ section{
     font-weight: 800;
 }
 
+.pay{
+    width: 50%;
+    margin: 20px;
+    padding: 5%;
+    border-left: salmon solid 2px;
+    border-bottom: salmon solid 2px;
+    border-radius: 50%;
+    box-shadow: 5px 18px 15px;
+}
+.pay-title{
+    font-weight: 800;
+    background-color: skyblue;
+    box-shadow: 5px 6px 8px;
+    border-radius: 55%;
+    margin-right: 70%;
+    margin-left: 2%;
+    padding: 2%;
+}
 
-
-
-
+.sub{
+    text-align: center;
+    margin-left: 15%;
+    padding-left: 5%;
+}
 
 
 footer{
